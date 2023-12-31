@@ -1,1 +1,0 @@
-{!! make_option_tree($type,$select_id) !!}
